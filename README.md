@@ -1,0 +1,1 @@
+Arduino based telemetry sensor for Graupner HOTTv4 based systems
